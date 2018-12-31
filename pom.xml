@@ -9,8 +9,6 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<packaging>war</packaging>
-
 	<groupId>com.example</groupId>
 	<artifactId>spring-boot-hello</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
