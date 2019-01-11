@@ -10,4 +10,10 @@ public class MyRESTController {
   public String hello() {
     return "Hello World!";
   }
+
+  @GetMapping("/another")
+  public String another() {
+    return "Another World!";
+  }
+
 }
